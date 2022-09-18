@@ -1,6 +1,6 @@
 # NLW_Esports
 <div>
-<h4>Desktop</h4>
+<h2>Desktop</h2>
 </div>
 <div>
 <img src="images/Desktop 1.jfif" width="400rem">
@@ -8,7 +8,7 @@
 <img src="images/Desktop 2.jpeg" width="400rem">
 </div>
 <div>
-<h4>Mobile</h4>
+<h2>Mobile</h2>
 </div>
 <div>
 <img src="images/Mobile 1.jfif" width="300rem" height="500rem">
