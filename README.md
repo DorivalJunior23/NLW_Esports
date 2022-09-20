@@ -1,4 +1,5 @@
 # NLW_Esports
+Projeto da NLW eSports, trilha Ignite
 <div>
 <h2>Desktop</h2>
 </div>
