@@ -6,7 +6,7 @@ Projeto da NLW eSports, trilha Ignite
 <div>
 <img src="images/Desktop 1.jfif" width="400rem">
 <br>
-<img src="images/Desktop 2.jpeg" width="400rem">
+<img src="images/Desktop2.jpeg" width="400rem">
 </div>
 <div>
 <h2>Mobile</h2>
