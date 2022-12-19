@@ -3,7 +3,7 @@ Projeto da NLW eSports, trilha Ignite
 
 
 <div>
-<h2>Desktop</h2>
+<h2>🖥 Desktop</h2>
 </div>
 
 <div >
